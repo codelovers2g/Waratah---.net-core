@@ -1,0 +1,14 @@
+Overview:
+The goal of the application is to have referrals entered on the homepage, then have admin assign them to a Practitioner when the contractor signs in, 
+they can see the clients assigned to them then add an Occasion of Service, view the previous Occasions of Service they have provided to them or run a report.
+
+Working:
+So basically what we are doing in this is once we submit the referral form we have all the referrals listed on the home page where admin assign the clients
+to a particular Practitioner(Contractor). Then if we have same client (First Name, Sur Name and DOB same) then we have added a functionality here to merge that
+client with the existing one (Waratah Screenshots(Fig 1.1)).
+
+After signing in as a Practitioner(Contractor) we have listing of all clients that have been assigned to the signed in Practitioner(Contractor) and add occasion of
+service for each client. We can also view each client os(occasion ofservice) history and add os. We have os Reports section in it which shows all the os records 
+of the Practitioner(Contractor) signed in. 
+
+Now as a admin part we have report section for admin where he can view all the os of all the Practitioner(Contractor) and also export them.
